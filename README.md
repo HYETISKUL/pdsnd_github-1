@@ -5,9 +5,10 @@ This project and README file have been created on Feb 1th, 2021.
 Explore US Bikeshare Data
 
 ### Description
-The project tracks down the bike share systems for three major cities
-first change
-second change
+The project tracks down the bike share systems for three major cities /
+first change /
+second change /
+third change
 
 ### Files used
 bikeshare.py
