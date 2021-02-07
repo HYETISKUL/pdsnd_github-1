@@ -16,11 +16,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-<<<<<<< HEAD
 https://docs.python.org/3/tutorial/ https://pandas.pydata.org/pandas-docs/stable/index.html https://stackoverflow.com/
-||||||| 072b08b
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-=======
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
->>>>>>> refactoring
