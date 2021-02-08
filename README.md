@@ -9,6 +9,7 @@ USA Bike Sharing Data Analysis
 The project tracks down the bike share systems for three major cities: chicago, new york city, washington.
 
 ### Files used
+I used 4 files for this project.
 bikeshare.py
 chicago.csv
 new_york_city.csv
