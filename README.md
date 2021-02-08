@@ -1,5 +1,6 @@
 ### Date created
-Include the date you created this project and README file.
+Bikeshare project has been created on Feb 1th, 2021.
+README file has been created on Feb 8th, 2021.
 
 ### Project Title
 Explore US Bikeshare Data
