@@ -2,15 +2,16 @@
 This project and README file have been created on Feb 1th, 2021.
 
 ### Project Title
-Explore US Bikeshare Data
+USA Bike Sharing Data Analysis
+
 
 ### Description
-The project tracks down the bike share systems for three major cities /
-first change /
-second change /
-third change
+The project tracks down the bike share systems for three major cities: chicago, new york city, washington.
 
 ### Files used
+I used 4 files for this project.
+Bikeshare is the python file.
+
 bikeshare.py
 chicago.csv
 new_york_city.csv
